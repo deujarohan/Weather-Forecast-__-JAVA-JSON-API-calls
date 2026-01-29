@@ -8,7 +8,7 @@ import java.io.BufferedReader;
 
 
 public class Weather {
-    private static final String API_KEY = "6ebc62405fa4deb4154c52518d967544";
+    private static final String API_KEY = "add token";
     private static final String BASE_URL = "http://api.openweathermap.org/data/2.5/forecast";
 
     public String getForecast(String city) throws IOException {
